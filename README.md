@@ -21,4 +21,3 @@ The code was adapted and extended for the purposes of this bachelor thesis. The 
 - Implementation of a deterministic fallback mechanism for constraint center handling under symmetric constraint sets.
 - Unified metrics aggregation and visualization scripts to support multi-seed evaluation and consistent result reporting.
 - Extensions to support the specific evaluation metrics and analyses presented in the thesis.
-```
